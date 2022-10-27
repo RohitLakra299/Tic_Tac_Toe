@@ -21,6 +21,7 @@ Get application [Link](https://drive.google.com/file/d/1NSKnMXRBoUwuK5zOguO4ml0v
 
  - A user will be authenticated with there gmail account.
  - User can keep track of there stats in singleplayer mode.
+ - Hii Everyone...
 
 
 ## Screenshots
